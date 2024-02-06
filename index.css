@@ -1,0 +1,11 @@
+h1 {
+    text-align: center;
+}
+
+ul {
+    margin-left: calc(50% - 140px);
+}
+
+li {
+    padding: 10px;
+}
